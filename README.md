@@ -284,7 +284,7 @@ Tests:
 
 This was my first full-stack application project. It was also my first time implementing some of the testing techniques that were used in this project. 
 
-The application fully met the acceptance requirements for this challenge as the user can post a peep, peeps are in reverse chronological order, the time at which the peep was made is displayed, the user can sign up, log in, and log out of the application. The code is fully tested. This project achieved a 'Distinction'.
+The application fully met the acceptance requirements for this challenge as the user can post a peep, peeps are in reverse chronological order, the time at which the peep was made is displayed, the user can sign up, log in, and log out of the application. The code is fully tested. This project achieved a 'Distinction'. Unfortunately, as the project was cloned from a private repository, the commit history is not visible.
 
 In the future I would like to:
 
