@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "namePeep": "Sophie",
+            "lastNamePeep": "Beard",
+            "username": "sophbeard",
+            "email": "sophie@chitter.com",
+            "password": "Peep22!"
+        },
+        {
+            "namePeep": "Molly",
+            "lastNamePeep": "Beard",
+            "username": "molbeard",
+            "email": "molly@chitter.com",
+            "password": "Peep22!"
+        },
+        {
+            "namePeep": "Ben",
+            "lastNamePeep": "Beard",
+            "username": "benbeard",
+            "email": "ben@chitter.com",
+            "password": "Peep22!"
+        },
+        {
+            "namePeep": "Carolyn",
+            "lastNamePeep": "Beard",
+            "username": "carbeard",
+            "email": "carolyn@chitter.com",
+            "password": "Peep22!"
+        }
+    ]
+}
